@@ -3,7 +3,7 @@ const data = [
 [i++, "Abhishek", "N/A", "./data/Abhishek/1.bmp", "./data/Abhishek/2.bmp", "./data/Abhishek/3.bmp", "./data/Abhishek/4.bmp", "./data/Abhishek/5.bmp"],
   [i++, "Anubhav", "N/A", "./data/Anubhav/1.bmp", "./data/Anubhav/2.bmp", "./data/Anubhav/3.bmp", "./data/Anubhav/4.bmp", "./data/Anubhav/5.bmp"],
   [i++, "Ashish", "N/A", "./data/Ashish/1.bmp", "./data/Ashish/2.bmp", "./data/Ashish/3.bmp", "./data/Ashish/4.bmp", "./data/Ashish/5.bmp"],
-  [i++, "Ashish SMI", "N/A", "./data/Ashish SMI/1.bmp", "./data/Ashish SMI/2.bmp", "./data/Ashish SMI/3.bmp", "./data/Ashish SMI/4.bmp", "./data/Ashish SMI/5.bmp"],
+  [i++, "Ashish smi", "N/A", "./data/ashish smi/1.bmp", "./data/ashish smi/2.bmp", "./data/ashish smi/3.bmp", "./data/ashish smi/4.bmp", "./data/ashish smi/5.bmp"],
   [i++, "Neha", "N/A", "./data/Neha/1.bmp", "./data/Neha/2.bmp", "./data/Neha/3.bmp", "./data/Neha/4.bmp", "./data/Neha/5.bmp"],
   [i++, "Shalu", "N/A", "./data/Shalu/1.bmp", "./data/Shalu/2.bmp", "./data/Shalu/3.bmp", "./data/Shalu/4.bmp", "./data/Shalu/5.bmp"],
   [i++, "Shashikant", "N/A", "./data/Shashikant/1.bmp", "./data/Shashikant/2.bmp", "./data/Shashikant/3.bmp", "./data/Shashikant/4.bmp", "./data/Shashikant/5.bmp"],
